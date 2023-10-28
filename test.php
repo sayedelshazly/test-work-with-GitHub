@@ -1,6 +1,6 @@
 <?php 
 
 echo "first share in github";
-echo "second shares 11";
+echo "second shares11";
 
 ?>
